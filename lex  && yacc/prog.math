@@ -1,0 +1,7 @@
+a=15
+b=15
+c=30
+x=a+b-c+1*30
+print(x)
+sin(x)
+cos(x+30)
